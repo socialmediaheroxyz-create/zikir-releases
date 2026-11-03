@@ -1,10 +1,10 @@
 {
-    "schemaVersion":  1,
-    "versionCode":  9,
-    "versionName":  "0.9.0",
-    "apkUrl":  "https://raw.githubusercontent.com/socialmediaheroxyz-create/zikir-releases/main/zikir-0.9.0.apk",
-    "sha256":  "54acac48628cf4b0900703c2259209f34a570460b7ff195d5ecae2e783606ecd",
-    "sizeBytes":  11427847,
-    "publishedAt":  "2026-11-03",
-    "notes":  "Kompas qiblat dengan getaran, gaya widget Kaca/Pejal/Jelas, Tetapan lebih ringkas, penerima hadiah boleh cari, takwim Raja Haron hingga 2042, ikon baharu."
+  "schemaVersion": 1,
+  "versionCode": 10,
+  "versionName": "0.9.1",
+  "apkUrl": "https://zikirnusantara.pages.dev/downloads/zikir.apk",
+  "sha256": "74a1b9a498a21149a53903e4dfaf51d2df34f42abf124ff90b062257d2ebe5ce",
+  "sizeBytes": 11426527,
+  "publishedAt": "2026-11-04",
+  "notes": "Kemas kini kini dimuat turun dari laman rasmi. Repo ini hanya tinggal sebagai laluan naik taraf untuk versi 0.9.0."
 }
